@@ -10,6 +10,7 @@
   </div>
 
   <div id ="profile-views">
+	  <a href="https://github.com/NHHN25">
     <img src="https://komarev.com/ghpvc/?username=NHHN25&style=flat-square&color=blue" alt=""/>
   </div>
     
