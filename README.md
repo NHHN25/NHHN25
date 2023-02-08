@@ -27,7 +27,7 @@
  ---
 
 ### :man_technologist: About Me :
-I am an aspiring Software Engineer/Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+My name is Nam Nguyen and I am an aspiring Software Engineer/Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - :telescope: I’m currently pursuing a Computer Science (EAE Emphasis) degree at the University of Utah.
 
