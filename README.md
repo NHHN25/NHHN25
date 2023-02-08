@@ -1,6 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there&fontSize=70&animation=fadeIn&fontAlign=80&fontAlignY=45)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-  
   <div id="badges">
   <a href="www.linkedin.com/in/nhhn25">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,14 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=NHHN25&style=flat-square&color=blue" alt=""/>
   </div>
     
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30px"/>
-</h1>
-</div>
-  
-<div align="center">
-  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="500" height="250"/>
 </div>
   
  ---
@@ -53,9 +45,10 @@ My name is Nam Nguyen and I am an aspiring Software Engineer/Game Developer <img
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NHHN25&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NHHN25&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NHHN25&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+	 
 	
 
 
